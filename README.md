@@ -5,6 +5,8 @@ A complete end-to-end data science project analysing real bank marketing campaig
 ---
 
 ## Project Structure
+
+```
 Banking-Analytics-Portfolio/
 ├── bank_marketing.csv                  # UCI Bank Marketing dataset (41,188 rows)
 ├── banking_analytics_real_data.ipynb   # Main notebook — all code, reasoning, dashboards
@@ -13,7 +15,7 @@ Banking-Analytics-Portfolio/
 ├── dashboard_03_abtest.png             # A/B test — cellular vs telephone
 ├── dashboard_04_model.png              # ML pipeline — model comparison and risk tiers
 └── dashboard_05_strategy.png           # Campaign strategy and ROI simulation
-
+```
 ---
 
 ## Dataset
