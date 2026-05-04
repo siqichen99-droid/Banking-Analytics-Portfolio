@@ -1,6 +1,6 @@
 # Banking-Analytics-Portfolio
 
-A complete end-to-end data science project analysing real bank marketing campaign data to uncover customer behaviour patterns, evaluate channel strategy through hypothesis testing, and build a subscription prediction model. Built to demonstrate the full analytical workflow expected across Data Analyst, Data Scientist, Product Analyst, and Business Intelligence roles.
+A complete end-to-end data science project analysing real bank marketing campaign data to uncover customer behaviour patterns, evaluate channel strategy through hypothesis testing, and build a subscription prediction model.
 
 ---
 
